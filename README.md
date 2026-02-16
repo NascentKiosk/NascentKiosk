@@ -1,14 +1,15 @@
-<img width="40%" alt="Hej, I'm Timothy. Frontend Developer!" src="https://user-images.githubusercontent.com/25063572/210056286-79efe697-3bed-4259-8baa-55735beb4ae5.png" style="max-width: 100%;">
+<img width="40%" alt="Hej, I'm Timothy. DevOps & Cloud Focus Developer!" src="https://user-images.githubusercontent.com/25063572/210056286-79efe697-3bed-4259-8baa-55735beb4ae5.png" style="max-width: 100%;">
 I've done remote work for agencies, worked for companies, and collaborated with talented people to create digital products for both business and consumer use. I'm confident, naturally curious, and I try to leave every bit of code I touch more readable, modular and accessible than I found it.
 <br />
 <br />
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logocolor=007acc)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logocolor=3C873A)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%2357B6E1.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23FF4081.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <hr />
 <img align="left" width = "47%" src= "https://github-readme-stats.vercel.app/api?username=nascentkiosk&show_icons=true&theme=true"/>
 <img align="left" width = "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nascentkiosk&layout=compact"/>
