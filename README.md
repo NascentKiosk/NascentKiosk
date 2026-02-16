@@ -1,5 +1,5 @@
-<img width="40%" alt="Hej, I'm Timothy. DevOps & Cloud Focus Developer!" src="https://user-images.githubusercontent.com/25063572/210056286-79efe697-3bed-4259-8baa-55735beb4ae5.png" style="max-width: 100%;">
-I've done remote work for agencies, worked for companies, and collaborated with talented people to create digital products for both business and consumer use. I'm confident, naturally curious, and I try to leave every bit of code I touch more readable, modular and accessible than I found it.
+<img width="40%" alt="Hej, I'm Timothy. DevOps & Cloud Focus Developer!" src="1-removebg-preview.png" style="max-width: 100%;">
+I’m a DevOps & Cloud-focused Python developer, passionate about building scalable and maintainable systems in Azure. I’ve worked on cloud infrastructure, automated deployments, and CI/CD pipelines for companies and remote teams. I focus on clean, modular, and accessible code**, and I enjoy making complex systems easy to manage and reliable for both business and consumer applications.
 <br />
 <br />
 
