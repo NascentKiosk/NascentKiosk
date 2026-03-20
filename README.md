@@ -12,7 +12,9 @@ I’m a DevOps & Cloud-focused Python developer, passionate about building scala
 
 <hr />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nascentkiosk&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascentkiosk&layout=compact&hide_border=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascentkiosk&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br clear="both"/>hide_border=true"/>
 
 
 
