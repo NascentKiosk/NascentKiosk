@@ -11,9 +11,17 @@ I’m a DevOps & Cloud-focused Python developer, passionate about building scala
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <hr />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nascentkiosk&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascentkiosk&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nascentkiosk&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascentkiosk&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 
 
